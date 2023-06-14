@@ -9,6 +9,7 @@ const Header = () => {
             src='https://links.papareact.com/yvf'
           />
         </Link>
+
         <div className='hidden md:inline-flex items-center space-x-5'>
           <div>About</div>
           <div>Contact</div>
